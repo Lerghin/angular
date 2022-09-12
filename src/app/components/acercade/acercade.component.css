@@ -8,6 +8,7 @@ div{
 background-color: rgb(17, 52, 85) ;
 text-align: center;
 Font-family:'Roboto';
+box-shadow: 2px 2px #999;
 }
 
 div #nombre{
@@ -38,7 +39,7 @@ para el minimo de 576 px de ahi para arriba */
         border-radius:100%;
         box-shadow: 3px 3px 3px gray;
         left: 33%;
-        top:450px;
+        top:700px;
     }
 
 
@@ -53,4 +54,10 @@ font-weight: bold;
 margin-left:10px;
 
 }
+
+#idboton{
+   padding:50px;
+    
+}
+
 
